@@ -1,0 +1,151 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.left{
+text-align: center;
+width: 250px;
+height: 150px;
+background-color: tomato;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.right{
+    position: relative;
+display: flex;
+align-items:flex-end ;
+background-color: rgb(139, 131, 121);
+width: 100%;
+height: 150px;
+justify-content: flex-end;
+margin-left: 10px;
+padding: 0px 20px;
+
+
+}
+.container{
+
+
+}
+.d1{
+ position: relative;   
+background-color: antiquewhite;
+width: 100px;
+height: 100px;
+align-items: center;
+display: flex;
+justify-content: center;
+bottom: 10px;
+right: 400px;
+background-color: brown;
+}
+.d2{
+position: relative;
+width:100px ;
+height:100px ;
+bottom: 10px;
+background-color: aliceblue;
+align-items: center;
+justify-content: center;
+display: flex;
+right:375px ;
+
+}
+.d3{
+position: relative;    
+width: 100px;
+height: 100px;
+background-color: aliceblue;
+display: flex;
+align-items: center;
+justify-content: center;
+right: 350px;
+bottom: 10px;
+}
+.d4{
+position: relative;
+width: 100px;
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+bottom: 10px;
+background-color: aliceblue;
+right: 325px;
+
+}
+.rasm1{
+    position: relative;
+width: 800px;
+top: 10px;
+height: 700px;
+}
+.tepa{
+display: flex;
+
+}
+.urta{
+display: flex;
+
+}
+.suzlar{
+    position: relative;
+width: 540px;
+background-color: rgb(102, 98, 91);
+top: 10px;
+height: 700px;
+margin-left: 10px;
+}
+.suz{
+
+
+}
+.lorem{
+    position: relative;
+width:400px ;
+left: 40px;
+}
+.but{
+position: relative;
+left:40px ;
+padding: 5px 20px;
+background-color: rgb(189, 137, 137);
+border: none;
+}
+.ppp{
+display: flex;
+background-color: blueviolet;
+width: 100%;
+height: 100px;
+align-items: center;
+justify-content: center;
+margin-top: 10px;
+}
+.p{
+margin-left: 150px;
+}
+.pastki{
+display: flex;
+
+
+}
+.qisimlar{
+    position: relative;
+width:700px;
+background-color: rgb(109, 25, 25);
+left: 300px;
+}
+.hd{
+    position: relative;
+width: 300px;
+left: 180px;
+
+}
+.dd{
+position: relative;
+left: 409px;
+}
